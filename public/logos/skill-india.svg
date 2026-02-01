@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 80">
+  <defs>
+    <style>
+      .skill-text { font-family: Arial, sans-serif; font-weight: bold; }
+      .skill-green { fill: #3CAA35; }
+      .skill-orange { fill: #F7941D; }
+    </style>
+  </defs>
+  <!-- Skill India Logo -->
+  <rect width="200" height="80" fill="white"/>
+  <text x="100" y="50" text-anchor="middle" class="skill-text skill-green" font-size="28">Skill</text>
+  <text x="100" y="65" text-anchor="middle" class="skill-text skill-orange" font-size="28">India</text>
+</svg>

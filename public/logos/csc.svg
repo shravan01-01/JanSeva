@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 80">
+  <defs>
+    <style>
+      .csc-text { font-family: Arial, sans-serif; font-weight: bold; }
+      .csc-blue { fill: #003DA5; }
+      .csc-gray { fill: #999999; }
+    </style>
+  </defs>
+  <!-- CSC e-Governance Logo -->
+  <rect width="200" height="80" fill="white"/>
+  <text x="100" y="45" text-anchor="middle" class="csc-text csc-blue" font-size="28">CSC</text>
+  <text x="100" y="65" text-anchor="middle" class="csc-text csc-gray" font-size="11">e-Governance Services India Ltd</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 80">
+  <defs>
+    <style>
+      .nic-text { font-family: Arial, sans-serif; font-weight: bold; }
+      .nic-blue { fill: #003f87; }
+    </style>
+  </defs>
+  <!-- NIC Logo -->
+  <rect width="200" height="80" fill="white"/>
+  <text x="100" y="50" text-anchor="middle" class="nic-text nic-blue" font-size="32">NIC</text>
+  <text x="100" y="68" text-anchor="middle" class="nic-text" font-size="10" fill="#666">National Informatics Centre</text>
+</svg>

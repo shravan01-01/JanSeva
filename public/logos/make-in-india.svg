@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 80">
+  <defs>
+    <style>
+      .mii-text { font-family: Arial, sans-serif; font-weight: bold; }
+      .mii-orange { fill: #FF6B1A; }
+      .mii-blue { fill: #0052CC; }
+    </style>
+  </defs>
+  <!-- Make in India Logo -->
+  <rect width="200" height="80" fill="white"/>
+  <circle cx="40" cy="40" r="20" class="mii-orange"/>
+  <text x="100" y="50" text-anchor="start" class="mii-text mii-orange" font-size="28">Make</text>
+  <text x="100" y="68" text-anchor="start" class="mii-text mii-blue" font-size="28">India</text>
+</svg>

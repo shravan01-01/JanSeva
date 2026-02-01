@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 80">
+  <defs>
+    <style>
+      .di-text { font-family: Arial, sans-serif; font-weight: bold; }
+      .di-orange { fill: #FF9F1C; }
+      .di-teal { fill: #00A8A8; }
+      .di-pink { fill: #E60768; }
+    </style>
+  </defs>
+  <!-- Digital India Logo -->
+  <rect width="200" height="80" fill="white"/>
+  <circle cx="50" cy="40" r="15" class="di-orange" opacity="0.8"/>
+  <circle cx="70" cy="40" r="15" class="di-teal" opacity="0.8"/>
+  <circle cx="90" cy="40" r="15" class="di-pink" opacity="0.8"/>
+  <text x="130" y="50" text-anchor="start" class="di-text di-teal" font-size="20">Digital</text>
+  <text x="130" y="68" text-anchor="start" class="di-text di-orange" font-size="20">India</text>
+</svg>
