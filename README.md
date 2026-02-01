@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to your Lovable project
 
 ## Project info
@@ -75,6 +76,34 @@ Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/c
 ---
 
 ## GitHub Pages deployment (auto)
+=======
+# JanSeva
+
+**Your voice matters.**
+
+JanSeva is a citizen-facing portal for registering and tracking public service complaints and requests.
+
+---
+
+## Development
+
+To run this project locally:
+
+```bash
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+```
+
+This project uses Vite, React, TypeScript, Tailwind CSS, and shadcn-ui components.
+
+
+---
+
+## GitHub Pages deployment (auto) ✅
+>>>>>>> ba38317 (Fix base path for GitHub Pages (/JanSeva))
 
 This repository includes a GitHub Actions workflow that builds the site and deploys the generated `dist/` directory to the `gh-pages` branch using `peaceiris/actions-gh-pages`.
 
@@ -89,3 +118,10 @@ Notes and customization:
   https://shravan01-01.github.io/JanSeva
 
 If you'd like me to update anything (different repo name or custom domain), tell me and I will adjust `vite.config.ts` and the workflow accordingly.
+<<<<<<< HEAD
+=======
+
+---
+
+If you need help editing the site directly on GitHub or via Codespaces, I can walk you through it.
+>>>>>>> ba38317 (Fix base path for GitHub Pages (/JanSeva))
